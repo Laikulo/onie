@@ -52,7 +52,7 @@ CT_NG_COMPONENTS =	\
 	libiconv-1.15.tar.gz		\
 	libtool-2.4.6.tar.xz		\
 	ltrace_0.7.3.orig.tar.bz2	\
-	m4-1.4.18.tar.xz		\
+	m4-1.4.19.tar.xz		\
 	make-4.2.1.tar.bz2		\
 	ncurses-6.0.tar.gz
 
@@ -67,7 +67,7 @@ CT_NG_COMPONENTS +=	\
 	mpc-1.1.0.tar.gz        \
 	mpfr-4.1.0.tar.xz		\
 	strace-4.26.tar.xz      \
-	zlib-1.2.11.tar.xz      
+	zlib-1.2.12.tar.gz
 else ifeq ($(GCC_VERSION),6.3.0)
 CT_NG_COMPONENTS +=	\
 	gcc-6.3.0.tar.bz2		\

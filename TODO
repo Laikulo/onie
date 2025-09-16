@@ -1,2 +1,8 @@
 DHCP v6
 Upgrade crosstool-ng configs for arches other than x86_64
+
+crostool-ng components:
+- expat to 2.4.1
+- strace to 5.16
+- gcc to 8.5.0
+- gdb to 9.2
